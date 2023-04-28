@@ -1,5 +1,5 @@
 # COMPNEURO_G7
-# File Contents
+# File Contents and How to run the codes
 1.The first file contains the code for the Hodgkin-Huxley Model based on their findings in 1952.
 2.The second file aims at reparameterization using Approximate Bayesian computation for the Hodgkin-Huxley Model 
 3.The third files implements the four figures given in Section 3 (3.1.3  Other functional curation protocols and Voltage Protocols) of the Article
